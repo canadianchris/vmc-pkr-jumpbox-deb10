@@ -1,0 +1,5 @@
+# ignore the vars file with secrets
+vsphere.auto.pkrvars.hcl
+
+# cache objects
+packer_cache/
